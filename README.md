@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **React, Typescript, Supabase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I am one of the Founding 75 of the NHL Franchise, Vegas Golden Knights🏒🥅**
 
  </div>
  
