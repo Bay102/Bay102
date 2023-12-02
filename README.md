@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a sports tickiting app for season ticket members**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Supabase**
 
 💬 Ask me about **React, Typescript, Supabase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,vscode,github,figma,git,supabase" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
 </div>
 
