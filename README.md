@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a sports tickiting app for season ticket members**
+ 🔭 I’m currently working on **a sports app for season ticket members**
  
  🌱 I’m currently learning **Supabase**
 
 💬 Ask me about **React, Typescript, Supabase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **I am one of the Founding 75 of the NHL Franchise, Vegas Golden Knights🏒🥅**
+⚡ Fun fact! **I am one of the Founding 75 of the NHL Franchise, Vegas Golden Knights🏒🥅**
 
  </div>
  
@@ -47,7 +47,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Snake Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bay102/bay102/output/github-contribution-grid-snake.svg" />
   
