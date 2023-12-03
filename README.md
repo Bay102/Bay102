@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zak+Bay!;" />
 </h1>
 
-<h3 align="center">A skilled software developer in Las Vegas, NV 🔥 🌵</h3>
+<h3 align="center">A skilled React Developer in Las Vegas, NV 🔥 🌵</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a sports app for season ticket members**
+ 🔭 I’m currently working on **a Sports App for Season Ticket Members**
  
  🌱 I’m currently learning **Supabase**
 
