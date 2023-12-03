@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Supabase**
 
-💬 Ask me about **React, Typescript, Supabase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **React, Typescript, Supabase... or anything [here](https://github.com/bay102/bay102/issues)**
 
 ⚡ Fun fact! **I am one of the Founding 75 of the NHL Franchise, Vegas Golden Knights🏒🥅**
 
