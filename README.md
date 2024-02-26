@@ -11,13 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Sports App for Season Ticket Members**
- 
- 🌱 I’m currently learning **Supabase, Three.js & Framer Motion**
+💬 Ask me about **React, Typescript, Supabase... or anything else [here](https://github.com/bay102/bay102/issues)**
 
-💬 Ask me about **React, Typescript, Supabase... or anything [here](https://github.com/bay102/bay102/issues)**
-
-⚡ Fun fact! **I am one of the Founding 75 of the NHL Franchise, Vegas Golden Knights🏒🥅**
+⚡ Fun fact! **I am one of the Founding 75 of the NHL Franchise, the Vegas Golden Knights🏒🥅**
 
  </div>
  
