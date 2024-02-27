@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zak+Bay!;" />
 </h1>
 
-<h3 align="center">Im a dedicated Software Engineer living it up in Las Vegas, NV 🔥 🌵</h3>
+<h3 align="center">Frontend Software Engineer living it up in Las Vegas, NV 🔥 🌵</h3>
 <h4 align="center">FrontEnd Engineer @ AvantStay 🏡💰</h4>
 
 <br/>
