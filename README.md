@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zak+Bay!;+I+code+cool+shit.+.+." />
 </h1>
 
-<h3 align="center">Living it up in Las Vegas, NV 🔥 🌵 Born and Raised in Detroit, MI</h3>
+<h3 align="center">Currently living it up in Las Vegas, NV 🌵 Born and Raised in Detroit, MI🥶</h3
 <h4 align="center">FrontEnd Software Engineer @ AvantStay 🏡💰</h4>
 
 <br/>
 
 <div align="center">
  
-💬 Ask me about **React, Typescript, Supabase... or anything else [here](https://github.com/bay102/bay102/issues)**
+💬 Ask me about **React, Typescript, Supabase... or anything else [here](https://github.com/bay102/bay102/issues)**❄️
 
 ⚡ Fun fact! **I am one of the Founding 75 of the NHL Franchise, the Vegas Golden Knights🏒🥅**
 
