@@ -5,18 +5,10 @@
 </h1>
 
 <h3 align="center">Currently living it up in Las Vegas, NV 🌵 Born and Raised in Detroit, MI🥶</h3>
-<h4 align="center">FrontEnd Software Engineer @ AvantStay 🏡💰</h4>
+<h4 align="center">FrontEnd Software Engineer | Mobile Developer 🏡💰</h4>
 
 <br/>
 
-<div align="center">
- 
-💬 Ask me about **React, Typescript, Supabase... or anything else [here](https://github.com/bay102/bay102/issues)**❄️
-
-⚡ Fun fact! **I am one of the Founding 75 of the NHL Franchise, the Vegas Golden Knights🏒🥅**
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:bayscodes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -24,7 +16,7 @@
   <a href="https://linkedin.com/in/zakbay/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codebay.tech" target="_blank">
+  <a href="https://codebay-omega.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
